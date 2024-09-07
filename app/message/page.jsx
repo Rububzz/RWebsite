@@ -35,7 +35,7 @@ function message() {
           celebrate it together on the day itself,
           <br />
           I still easily felt the love you had for me from how sad you were when
-          you couldn't spend it with me
+          you couldnt spend it with me
           <br />
           There are so many words for me to say to u to show the level of love I
           have for you
