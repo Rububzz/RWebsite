@@ -9,9 +9,9 @@ function Message() {
           Hey yo its me your dinopuppykittie boyfriend
           <br /> This website was made quite a while back, or more of started
           way awhile back,
-          <br /> and i am kinda a noob so it kinda be bad so me sorry i tried
+          <br /> and I am kinda a noob so it kinda be bad so me sorry I tried
           hahahah.
-          <br /> I am hoping to improve my coding so maybe in the future i can
+          <br /> I am hoping to improve my coding so maybe in the future I can
           actually code something
           <br /> actually half decent that could maybe surprise you hehe.
           <br /> It&#39;s already our 2nd birthday we spent together and I
@@ -26,8 +26,8 @@ function Message() {
         <p>
           What else can I say that hasn&#39;t already been said before
           <br />
-          The words "I love you" aren&#39;t even enough to capture the feelings
-          I have for you
+          The words &quot;I love you&quot; aren&#39;t even enough to capture the
+          feelings I have for you
           <br />
           You make me want to become a better person and boyfriend for you haha
           <br />
