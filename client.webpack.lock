@@ -1,0 +1,6 @@
+{
+  "https://amnvkdxifafbkapnmaix.supabase.co/storage/v1/object/public/Video/BirthdayVideo.mp4?t=2024-09-07T08%3A34%3A31.695Z": { "integrity": "sha512-jvEkTUy9wh+TqtvmwezLtPRtKwYZhckyEZ5edURtMoqqQ99OHmN5TdlJs/OGHKcyJ0PzbnzsAaVJHFTLGbJLyQ==", "contentType": "video/mp4" },
+  "https://amnvkdxifafbkapnmaix.supabase.co/storage/v1/object/public/Video/Depth%20Anything%20speed%20test.mp4?t=2024-08-01T11%3A09%3A22.453Z": { "integrity": "sha512-j/1VwUnEAzF5HKNOQP0VFKPODEP4EO/lUQvqosLV+cVcX6IE/k1yFkwMcLhUeZMLYo04A8aty1lERNdtm16GfA==", "contentType": "video/mp4" },
+  "https://amnvkdxifafbkapnmaix.supabase.co/storage/v1/object/public/Video/VideoTest.mp4?t=2024-08-01T11%3A05%3A30.161Z": { "integrity": "sha512-VMM8S35exQhLAz6stluCElYL76rlC4CDR7oJOx+3sLOgBh1gpHKT2qgqVcJHOs44JhcALaug/TWrY5h91EU6Zw==", "contentType": "video/mp4" },
+  "version": 1
+}
