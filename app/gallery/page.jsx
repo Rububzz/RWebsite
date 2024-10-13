@@ -7,6 +7,12 @@ import RandomPicButton from "../components/buttons/RandomPicButton";
 import image3 from "/images/3.jpeg";
 import image4 from "/images/4.jpeg";
 import image5 from "/images/5.jpeg";
+import image6 from "/images/6.jpg";
+import image7 from "/images/7.jpg";
+import image8 from "/images/8.jpg";
+import image9 from "/images/9.jpg";
+import image10 from "/images/10.jpg";
+import image11 from "/images/11.jpg";
 
 function Gallery() {
   return (
@@ -39,6 +45,36 @@ function Gallery() {
         <li className="w-max p-3">
           <div className="border-2">
             <Image src={image5} width={200} height={200} alt="photo 5" />
+          </div>
+        </li>
+        <li className="w-max p-3">
+          <div className="border-2">
+            <Image src={image6} width={200} height={200} alt="photo 6" />
+          </div>
+        </li>
+        <li className="w-max p-3">
+          <div className="border-2">
+            <Image src={image7} width={200} height={200} alt="photo 7" />
+          </div>
+        </li>
+        <li className="w-max p-3">
+          <div className="border-2">
+            <Image src={image8} width={200} height={200} alt="photo 8" />
+          </div>
+        </li>
+        <li className="w-max p-3">
+          <div className="border-2">
+            <Image src={image9} width={200} height={200} alt="photo 9" />
+          </div>
+        </li>
+        <li className="w-max p-3">
+          <div className="border-2">
+            <Image src={image10} width={200} height={200} alt="photo 10" />
+          </div>
+        </li>
+        <li className="w-max p-3">
+          <div className="border-2">
+            <Image src={image11} width={200} height={200} alt="photo 11" />
           </div>
         </li>
       </ul>
