@@ -37,6 +37,25 @@ function Message() {
           I still easily felt the love you had for me from how sad you were when
           you couldn&#39;t spend it with me
           <br />
+          Alot of things has happened in these 18 months. We have argued, we
+          have reconciled, we have loved.
+          <br />
+          But inspite of every argument or disagreement we have had, I only grew
+          to love you more
+          <br />
+          Everytime, you got angry or annoyed at me for not being the best me
+          for me
+          <br />
+          You make me improve myself for not only you but for myself, I hope i
+          now and in the future am able
+          <br />
+          to give you a safe environment to be yourself, to be able to heal and
+          become the person you want to be
+          <br />
+          Know always my baby, that i will be by your side that inspite of any
+          arguments we may have had or will have
+          <br />
+          I love you and I hope we are able to fight the problem together
           <br />
           There are so many words for me to say to you to show the level of love
           I have for you
@@ -44,7 +63,7 @@ function Message() {
           Instead, I will show you the love you deserve for however long you can
           tolerate me haha
           <br />
-          I love you soooooo much and happy birthday to my one and only
+          I love you soooooo much and happy 25th birthday to my one and only
           <br />
         </p>
       </div>
